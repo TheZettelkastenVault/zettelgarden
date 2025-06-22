@@ -520,6 +520,18 @@ Our notes are things to use, not just things to collect.
 
 Your notes are like unfinished pieces of raw material. They require a bit more refinement to turn them into truly valuable knowledge assets, like a chemist distilling only the purest compound.
 
+Your job as a notetaker is to preserve the notes you’re taking on the things you discover in such a way that they can survive the journey into the future.
+
+Discoverability is an idea from information science that refers to “the degree to which a piece of content or information can be found in a search of a file, database, or other information system.”! Librarians think about discoverability when deciding how to lay out books on the shelves. Web designers think about it when they create menus for the websites you visit every day. Social media platforms work hard to make the best content on their platforms as discoverable as possible.
+
+To enhance the discoverability of your notes, we can turn to a simple habit you probably remember from school: highlighting the most important points. Highlighting is an activity that everyone understands, takes hardly any additional effort, and works in any app you might use.
+
+You distill your message down to the key points and action steps.
+
+Progressive Summarization is the technique I teach to distill notes down to their most important points. It is a simple process of taking the raw notes you’ve captured and organized and distilling them into usable material that can directly inform a current project.
+
+I read the article and highlighted the passages I found most interesting. I have my read later app synced to my digital notes app, so any passage I highlight there automatically gets saved in my notes, including a link to the source.
+
 ---
 # Author's Purpose 
 
