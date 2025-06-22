@@ -500,6 +500,26 @@ After exhausting all their top choices, studio executives approached a young fil
 
 That director’s name was Francis Ford Coppola, and the movie he was asked to make was, of course, The Godfather.
 
+The Godfather would go on to become one of the greatest critical and commercial successes in filmmaking history. In 2007 the American Film Institute named it the third-best American movie of all time.2 It ultimately grossed $245 million, won three Oscars, and spawned a series of sequels and spinoffs eaten up by a rabid fan base obsessed with the story of the fictional Corleone family.
+
+He started by reading The Godfather novel and capturing the parts that resonated with him in a notebook—his own version of Twyla Tharp’s box.
+
+There he could add the notes and directions that would later be used to plan the screenplay and production design of the film.
+
+In a short documentary titled Francis Coppola’s Notebook? released in 2001, Coppola explained his process. He started with an initial read of the entire novel, noting down anything that stuck out to him:
+> think it’s important to put your impressions down on the first reading because those are the initial instincts about what you thought was good or what you didn’t understand or what you thought was bad.
+
+Coppola then began to add his own interpretations, distilling and reconstituting his own version of the story. He broke down each scene according to five key criteria: a synopsis (or summary) of the scene; the historical context; the imagery and tone for the “look and feel” of a scene; the core intention; and any potential pitfalls to avoid. In his own words, “I endeavored to distill the essence of each scene into a sentence, expressing in a few words what the point of the scene was.”
+
+>As I was reading the book and making these notes and then putting them on the margins obviously the more pens I was using and the more rulers, and the more squiggly lines, sort of implied the excitement of the book was higher and higher, so that the sheer amount of ink on the page would tell me later on this is one of the most important scenes
+
+The Godfather Notebook is a perfect example of the behind-the-scenes process used by successful creative professionals. Coppola considered the prompt book that emerged from this process the most important asset in the production of his now classic film:
+>the script was really an unnecessary document; I didn’t need a script because I could have made the movie just from this notebook.
+
+Our notes are things to use, not just things to collect.
+
+Your notes are like unfinished pieces of raw material. They require a bit more refinement to turn them into truly valuable knowledge assets, like a chemist distilling only the purest compound.
+
 ---
 # Author's Purpose 
 
