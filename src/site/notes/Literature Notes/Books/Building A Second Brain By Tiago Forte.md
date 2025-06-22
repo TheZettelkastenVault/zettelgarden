@@ -147,7 +147,67 @@ CODE is a map for navigating the endless streams of information we are now faced
 
 Here’s the problem: we can’t consume every bit of this information stream. We will quickly be exhausted and overwhelmed if we try.
 
+our goal should be to “capture” only the ideas and insights we think are truly noteworthy.
 
+The solution is to keep only what resonates in a trusted place that you control, and to leave the rest aside.
+
+Often, the ideas that resonate are the ones that are most unusual, counterintuitive, interesting, or potentially useful.
+
+Most people tend to organize information by subject, like the Dewey decimal system you've probably seen at the library. For example, you might find a book under a broad subject category like “Architecture,” “Business,” “History,” or “Geology.”
+
+The best way to organize your notes is to organize for action, according to the active projects you are working on right now.
+
+“How is this going to help me move forward one of my current projects?”
+
+Organizing for action gives you a sense of tremendous clarity, because you know that everything you’re keeping actually has a purpose.
+
+An article you read about gardening will give you an insight into growing your customer base. An offhand testimonial from a client will give you the idea to create a web page with all your client testimonials.
+
+The human mind is like a sizzling-hot frying pan of associations—throw a handful of seeds in there and they'll explode into new ideas like popcorn. Every note is the seed of an idea, reminding you of what you already know and already think about a topic.
+
+Every idea has an “essence”: the heart and soul of what it is trying to communicate.
+
+Einstein famously summarized his revolutionary new theory of physics with the equation E=mc”.
+
+How can I make this as useful as possible for my future self?
+
+This is why I recommend you shift as much of your time and effort as possible from consuming to creating
+
+All these actions—evaluate, share, teach, record, post, and lobbyY!—are synonyms for the act of expression. They all draw on outside sources for raw material, they all involve a practical process of refinement over time, and they all end up making an impact on someone or something that matters to you.
+
+Information is always in flux, and it is always a work in progress.
+
+Information is food for the brain. It’s no accident that we call new ideas “food for
+thought.”
+
+A Second Brain gives us a way to filter the information stream and curate only the very best ideas we encounter in a private, trusted place.
+
+A garden is only as good as its seeds, so we want to start by seeding our knowledge garden with only the most interesting, insightful, useful ideas we can find.
+
+Taylor Swift is an icon of modern pop and country music and one of the bestselling music artists in history. Her nine chart-topping albums have sold over two hundred million copies worldwide and earned her a long list of awards, including eleven Grammy Awards. her influence has transcended music and placed her on such lists as the Time 100 and Forbes Celebrity 100.
+
+In an interview about how she wrote the smash hit “Blank Space,” Swift says, “I'Il be going about my daily life and Pll think, “Wow, so we only have two real options in relationships—it’s going to be forever or it’s going to go down in flames,’ so Il jot that down in my notes... Pll come up with a line that I think is clever like “Darling ’m a nightmare dressed like a daydream’ and I just pick them and put them where they fit and construct the bridge out of more lines that come up within the last couple of years... “Blank Space’ was the culmination of all my best ones one after the other.”
+
+>Whenever I came up with a funny bit, whether it happened on a stage, in a conversation or working it out on my preferred canvas, the big yellow legal pad, I kept it in one of those old-school accordion folders... A lot of people I’ve talked to seemed surprised that I’ve kept all these notes. I don’t understand why they think that. I don't understand why I’ve kept anything else. What could possibly be of more value?
+
+Songwriters are known for compiling “hook books” full of lyrics and musical riffs they may want to use in future songs. Software engineers build “code libraries” so useful bits of code are easy to access. Lawyers keep “case files” with details from past cases they might want to refer to in the future. Marketers and advertisers maintain “swipe files” with examples of compelling ads they might want to draw from.
+
+Knowledge capture is about mining the richness of the reading you’re already doing and the life you're already living.
+
+Knowledge assets can come from either the external world or your inner thoughts. External knowledge could include:
+- Highlights: Insightful passages from books or articles you read. © Quotes: Memorable passages from podcasts or audiobooks you listen to.
+- Bookmarks and favorites: Links to interesting content you find on the web or favorited social media posts.
+- Voice memos: Clips recorded on your mobile device as “notes to self.”
+- Meeting notes: Notes you take about what was discussed during meetings or phone calls.
+- Images: Photos or other images that you find inspiring or interesting.
+- Takeaways: Lessons from courses, conferences, or presentations you’ve attended.
+
+As you start collecting this material from the outer world, it often sparks new ideas and realizations in your inner world. You can capture those thoughts too!
+They could include:
+- Stories: Your favorite anecdotes, whether they happened to you or someone else.
+- Insights: The small (and big) realizations you have. e Memories: Experiences from your life that you don’t want to forget.
+- Reflections: Personal thoughts and lessons written in a journal or diary.
+- Musings: Random “shower ideas” that pop into your head.
 
 ---
 # Author's Purpose 
@@ -185,6 +245,8 @@ Tiago Forte wrote Building a Second Brain to help knowledge workers manage the
 > We extent beyond our limits, not by revving our brains like a machine or bulking them up like a muscle-but by strewing our world with rich materials, and by weaving them into our thoughts.
 
 > It is in the power of remembering that the self’s ultimate freedom consists. I am free because I remember.
+
+>Everything not saved will be lost.
 
 ---
 # Related Books
