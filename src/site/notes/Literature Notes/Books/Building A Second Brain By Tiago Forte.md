@@ -45,7 +45,7 @@ The Building a Second Brain system will teach you how to:
 - Turn work “off” and relax, knowing you have a trusted system keeping track of all the details.
 - Spend less time looking for things, and more time doing the best, most creative work you are capable of.
 
-#### 2.1) Where It All Started.
+#### 2.1 Where It All Started.
 
 How can anyone get anything done here? What’s their secret?
 - I knew only one trick, and it started with writing things down.
@@ -56,8 +56,8 @@ My collection of notes and files had always been for my own personal use, but as
 I learned from one of the reports we published that the value of physical capital in the US—land, machinery, and buildings for example—is about $10 trillion, but that value is dwarfed by the total value of human capital, which is estimated to be five to ten times larger. Human capital includes “the knowledge and the knowhow embodied in humans—their education, their experience, their wisdom, their skills, their relationships, their common sense, their intuition.
 
 In the next couple of chapters, I'll show you how the practice of creating a Second Brain is part of a long legacy of thinkers and creators who came before us —writers, scientists, philosophers, leaders, and everyday people who strived to remember and achieve more. Then I'll introduce you to a few basic principles and tools you'll need to set yourself up to succeed. Part Two, “The Method,” introduces each of the four steps you'll follow to build a Second Brain so you can immediately begin to capture and share ideas with more intention. And Part Three, “Making Things Happen,” offers a set of powerful ways to use your Second Brain to enhance your productivity, accomplish your goals, and thrive in your work and life.
-
-#### 2.2) What Is A Second Brain?
+ 
+#### 2.2 What Is A Second Brain?
 
 According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers’ worth of content each and every day, five times higher than in 1986.
 
@@ -607,7 +607,7 @@ The true test of whether a note you’ve created is discoverable is whether you 
 
 This is a skill you can become better at over time. The more you exercise your judgment, the more efficient and enjoyable your notetaking will become because you know that every minute of attention you invest is creating lasting value.
 
-#### Express: Show Your Work
+#### 3.4 Express: Show Your Work
 
 In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California.
 
@@ -808,6 +808,14 @@ Verum ipsum factum. Translated to English, it means “We only know what we make
 What matters is that you are finding your voice and insisting that what you have to say matters. You have to value your ideas enough to share them. You have to believe that the smallest idea has the potential to change people’s lives.
 
 You could draw on the insights and life experiences you’ve written about in your notes to write a blog post or record a YouTube video to help people who are facing a similar challenge.
+
+#### 4.1 The Art Of Creative Execution
+
+My father planned for creativity. He strategized his creativity. When it was time to make progress on a painting, he gave it his full focus.
+
+All the steps of the CODE Method are designed to do one thing: to help you put your digital tools to work for you so that your human, fallible, endlessly creative first brain can do what it does best. Imagine. Invent. Innovate. Create.
+
+Building a Second Brain is really about standardizing the way we work, because we only really improve when we standardize the way we do something. To get stronger, you need to lift weights using the correct form. A musician relies on standardized notes and time signatures so they don’t have to reinvent the basics from scratch every time.
 
 ---
 # Author's Purpose 
