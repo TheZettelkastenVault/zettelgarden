@@ -466,6 +466,40 @@ My mentor advised me to “move quickly and touch lightly”.
 
 When it comes to PARA, that step is generally to create folders for each of your active projects in your notes app and begin to fill them with the content related to those projects.
 
+Here are some questions to ask yourself to help you think of the projects that might be on your plate:
+**• Notice what’s on your mind:** What’s worrying you that you haven’t taken the time to identify as a project? What needs to happen that you’re not making consistent progress on?
+**• Look at your calendar:** What do you need to follow up on from the past? What needs planning and preparation for the future?
+**• Look at your to-do list:** What actions are you already taking that are actually part of a bigger project you’ve not yet identified? What communication or follow-up actions you’ve scheduled with people are actually part of a bigger project?
+**• Look at your computer desktop, downloads folder, documents folder, bookmarks, emails, or open browser tabs:** What are you keeping around because it is part of a larger project?
+
+Here’s some examples of projects my students have come up with:
+**• Find new doctor who accepts my insurance**  
+**• Plan goals and agenda for annual team retreat**  
+**• Collect list of common food supplies and set up recurring deliveries**  
+**• Develop content strategy for next quarter**  
+**• Review draft of new reimbursement policy and provide feedback**  
+**• Share collaboration ideas with research partner**  
+**• Research and draft article on health equity**  
+**• Complete online course on creative writing**
+
+The three most common ones besides a notetaking app are the documents folder on your computer, cloud storage drives like Dropbox, and online collaboration suites like Google Docs.
+
+Start with a clean slate by putting your existing notes in the archives for safekeeping. If you ever need them, they'll show up in searches and remain just as you left them.
+
+Your goal is to clear your virtual workspace and gather all the items related to each active project in one place.
+
+The key thing to keep in mind is that these categories are anything but final. PARA is a dynamic, constantly changing system, not a static one. Your Second Brain evolves as constantly as your projects and goals change, which means you never have to worry about getting it perfect, or having it finished.
+
+#### 3.3 Distill: Find the Essence
+
+In 1969, studio executives at Paramount Pictures were desperate to find a film director for a new movie they had purchased the rights to, a crime drama based on the New York Mafia.
+
+One after another, all the top directors of the era turned the project down. They all found it too sensationalistic for their tastes. Gangster movies were known as cliché and gimmicky, and there had been several recent duds in the genre.
+
+After exhausting all their top choices, studio executives approached a young film director who had done a few small indie films. The director was a relative novice, with no major commercially successful films to his name. He was an outsider, working out of San Francisco instead of Hollywood, the industry capital.
+
+That director’s name was Francis Ford Coppola, and the movie he was asked to make was, of course, The Godfather.
+
 ---
 # Author's Purpose 
 
