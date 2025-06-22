@@ -550,6 +550,24 @@ By reviewing this executive summary, I can rapidly recall the main takeaways fro
 
 Speed is everything when it comes to recall.
 
+The layers of Progressive Summarization give you multiple ways of interacting with your notes depending on the needs of the moment.
+
+With Progressive Summarization, you are building up a map of the best ideas found in your Second Brain. Your highlights are like signposts and waypoints that help you navigate through the network of ideas you’re exploring. You are building this map without moving anything or delete anything.
+
+Progressive Summarization helps you focus on the content and the presentation of your notes, instead of spending too much time on labeling, tagging, linking, or other advanced features offered by many information management tools.
+
+Progressive Summarization can be used across a wide variety of different kinds of content. As long as a source can be turned into text, you can add layers of highlighting in any information management tool you use.
+
+Let’s look at more examples of progressively summarized notes:
+- A Wikipedia article
+- A blog post
+- A podcast interview
+- Meeting notes
+
+By saving the best excerpts from Wikipedia articles you read, you can create your own private encyclopedia with only the parts that are most relevant to you. In the note below, I captured a few key sentences from the article explaining “Baumol’s Cost Disease,” a somewhat esoteric term from economics that I’d seen referenced a few times.
+
+We consume information to stay up to date, pass the time, entertain ourselves, and keep our minds engaged.
+
 ---
 # Author's Purpose 
 
