@@ -817,6 +817,14 @@ All the steps of the CODE Method are designed to do one thing: to help you put y
 
 Building a Second Brain is really about standardizing the way we work, because we only really improve when we standardize the way we do something. To get stronger, you need to lift weights using the correct form. A musician relies on standardized notes and time signatures so they don’t have to reinvent the basics from scratch every time.
 
+Through the simple acts of capturing ideas, organizing them into groups, distilling the best parts, and assembling them together to create value for others, we are practicing the basic moves of knowledge work in such a way that we can improve on them over time.
+
+This standardized routine is known as the creative process,
+
+But if you go one level deeper, to the process of creativity, it is a very different story. The creative process is ancient and unchanging.
+
+One of the most important patterns that underlies the creative process is called “divergence and convergence".
+
 ---
 # Author's Purpose 
 
