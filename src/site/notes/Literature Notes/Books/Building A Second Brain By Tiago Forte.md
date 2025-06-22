@@ -444,7 +444,27 @@ This order gives us a convenient checklist for deciding where to put a note, sta
 3. **If none:** Which resource does this belong to?
 4. **If none:** Place in archives.
 
+You are always trying to place a note or file not only where it will be useful, but where it will be useful the soonest.
 
+Organizing by actionability counteracts our tendency to constantly procrastinate and postpone our aspirations to some far-off future.
+
+The goal of organizing our knowledge is to move our goals forward, not get a PhD in notetaking. Knowledge is best applied through execution, which means whatever doesn’t help you make progress on your projects is probably detracting from them.
+
+There is a parallel between PARA and how kitchens are organized. Everything in a kitchen is designed and organized to support an outcome— preparing a meal as efficiently as possible. The archives are like the freezer—items are in cold storage until they are needed, which could be far into the future. Resources are like the pantry—available for use in any meal you make, but neatly tucked away out of sight in the meantime. Areas are like the fridge—items that you plan on using relatively soon, and that you want to check on more frequently. Projects are like the pots and pans cooking on the stove—the items you are actively preparing right now.
+
+I recommend organizing them according to where they are going—specifically, the outcomes that they can help you realize.
+
+PARA isn’t a filing system; it’s a production system. It’s no use trying to find the “perfect place” where a note or file belongs. There isn’t one. The whole system is constantly shifting and changing in sync with your constantly changing life.
+
+There are a few lessons I took away from this experience. Those are:-
+- The first is that people need clear workspaces to be able to create.
+- Second, I learned that creating new things is what really matters.
+
+I’ve learned that completed creative projects are the blood flow of your Second Brain. They keep the whole system nourished, fresh, and primed for action.
+
+My mentor advised me to “move quickly and touch lightly”.
+
+When it comes to PARA, that step is generally to create folders for each of your active projects in your notes app and begin to fill them with the content related to those projects.
 
 ---
 # Author's Purpose 
