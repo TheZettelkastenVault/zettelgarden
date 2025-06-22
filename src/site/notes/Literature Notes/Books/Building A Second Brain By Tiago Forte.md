@@ -315,6 +315,20 @@ Thinking doesn’t just produce writing; writing also enriches thinking.
 
 Writing about one’s inner experiences led to a drop in visits to the doctor, improved immune systems, and reductions in distress.
 
+Notetaking is the easiest and simplest way of externalizing our thinking. It requires no special skill, is private by default, and can be performed anytime and anywhere.
+
+What would capturing ideas look like if it was easy?
+
+Think about what you would want to capture more of (or less of). How would that feel? What kinds of content are already familiar enough that it would be easy to begin saving them now? What would capturing look like today or this week?
+
+It’s important to keep capturing relatively effortless because it is only the first step. You need to do it enough that it becomes second nature, while conserving your time and energy for the later steps when the value of the ideas you’ve found can be fully unleashed.
+
+The only way to know whether you're getting the good stuff is to try putting it to use in real life.
+
+#### 3.2 Organize: Save For Actionability
+
+
+
 ---
 # Author's Purpose 
 
@@ -353,6 +367,18 @@ Tiago Forte wrote Building a Second Brain to help knowledge workers manage the
 > It is in the power of remembering that the self’s ultimate freedom consists. I am free because I remember.
 
 >Everything not saved will be lost.
+
+>Be regular and orderly in your life so that you may be violent and Original in your work.
+
+>To attain knowledge, add things every day. To attain wisdom, remove things every day.
+
+>Verum ipsum factum (“We only know what we make”)
+
+>Creative products are always shiny and new; the creative process is ancient and unchanging.
+
+>Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks... It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+
+>An idea wants to be shared. And, in the sharing, it becomes more complex, more interesting, and more likely to work for more people.
 
 ---
 # Related Books
