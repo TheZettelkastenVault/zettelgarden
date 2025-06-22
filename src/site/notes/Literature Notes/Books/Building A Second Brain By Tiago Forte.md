@@ -327,6 +327,57 @@ The only way to know whether you're getting the good stuff is to try putting it 
 
 #### 3.2 Organize: Save For Actionability
 
+Twyla Tharp is one of the most celebrated, inventive dance choreographers in modern times. Her body of work is made up of more than 160 pieces, including 129 dances, twelve television specials, six major Hollywood movies, four full length ballets, four Broadway shows, and two figure-skating routines.
+
+In her book The Creative Habit Tharp revealed that a simple organizing technique lies at the heart of a creative process that has propelled her through an incredibly prolific six decade career.
+
+Tharp calls her approach “the box.” Every time she begins a new project, she takes out a foldable file box and labels it with the name of the project, usually the name of the dance she is choreographing. This initial act gives her a sense of purpose as she begins: 
+>The box makes me feel organized, that I have my act together even when I don’t know where Pm going yet. It also represents a commitment. The simple act of writing a project name on the box means I’ve started work.
+
+Into the box she puts anything and everything related to the project, like a swirling cauldron of creative energy. Any time she finds a new piece of material— such as “notebooks, news clippings, CDs, videotapes of me working alone in my studio, videos of the dancers rehearsing, books and photographs and pieces of art that may have inspired me”—she always knows where to put it.
+
+For the collaboration with Joel, Tharp had two goals: The first was to understand and master the role of narrative in dance, a long-standing creative challenge that had captured her curiosity. The second goal was much more practical, but no less motivating: to pay her dancers well. She said, “So I wrote my goals for the project, ‘tell a story’ and ‘make dance pay,’ on two blue index cards and watched them float to the bottom of the Joel box.
+
+She found an elaborate set of notes from an early song of Joel’s called “She’s Got a Way,” which was full of innocence and sweetness. She decided to change its meaning: “In my notes you can see the song morphing into something harsher, eventually becoming two simultaneous sleazy bar scenes, one in Vietnam, the other back home.
+
+The box gave her the security to venture out and take risks: “a box is like soil to me. It’s basic, earthy, elemental. It’s home. It’s what I can always go back to when I need to regroup and keep my bearings.
+
+Studies have shown that the environment we find ourselves in powerfully shapes our thinking.
+
+As knowledge workers we spend many hours every day within digital environments—our computers, smartphones, and the web.
+
+Your Second Brain isn’t just a tool—it’s an environment. It is a garden of knowledge full of familiar, winding pathways, but also secret and secluded corners. Every pathway is a jumping-off point to new ideas and perspectives.
+
+PARA, which stands for the four main categories of information in our lives: Projects, Areas, Resources, and Archives. These four categories are universal, encompassing any kind of information, from any source, in any format, for any purpose.
+
+PARA can handle it all, regardless of your profession or field, for one reason: it organizes information based on how actionable it is, not what kind of information it is.
+
+These four categories—Projects, Areas, Resources, and Archives—make up the four categories of PARA.
+
+PARA can be used everywhere, across any software program, platform, or notetaking tool. You can use the same system with the same categories and the same principles across your digital life.
+
+No single platform can do everything. The intention here is not to use a single software program, but to use a single organizing system, one that provides consistency even as you switch between apps many times per day.
+
+With the PARA system, every piece of information you want to save can be placed into one of just four categories:
+1. Projects: Short-term efforts in your work or life that you’re working on now.
+2. Areas: Long-term responsibilities you want to manage over time.
+3. Resources: Topics or interests that may be useful in the future.
+4. Archives: Inactive items from the other three categories.
+
+**Projects: What I’m Working on Right Now**:-
+Projects include the short-term outcomes you're actively working toward right now.
+
+Projects have a couple of features that make them an ideal way to organize modern work. First, they have a beginning and an end; they take place during a specific period of time and then they finish. Second, they have a specific, clear outcome that needs to happen in order for them to be checked off as complete, such as “finalize,” “green-light,” “launch,” or “publish.”
+
+As an article in the New York Times? explains, “A project is identified; a team is assembled; it works together for precisely as long as is needed to complete the task; then the team disbands.
+
+Examples of projects could include:
+- Projects at work: Complete web-page design; Create slide deck for conference; Develop project schedule; Plan recruitment drive.
+- Personal projects: Finish Spanish language course; Plan vacation; Buy new living room furniture; Find local volunteer opportunity.
+- Side projects: Publish blog post; Launch crowdfunding campaign; Research best podcast microphone; Complete online course.
+
+Knowing which projects you re currently committed to is crucial to being able to prioritize your week, plan your progress, and say no to things that aren’t important.
+
 
 
 ---
