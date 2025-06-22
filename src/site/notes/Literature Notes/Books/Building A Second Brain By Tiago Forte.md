@@ -209,6 +209,47 @@ They could include:
 - Reflections: Personal thoughts and lessons written in a journal or diary.
 - Musings: Random “shower ideas” that pop into your head.
 
+What Not to Keep:
+- Is this sensitive information you'd like to keep secure?
+- Is this a special format or file type better handled by a dedicated app?
+- Is this a very large file?
+- Will it need to be collaboratively edited?
+
+Feynman was known for his wide-ranging, eclectic tastes. As a child he already showed a talent for engineering, once building a functioning home alarm system out of spare parts while his parents were out running errands. During his colorful lifetime Feynman spent time in Brazil teaching physics, learned to play the bongo and the conga drums well enough to perform with orchestras, and enthusiastically traveled around the world exploring other cultures.
+
+>You have to keep a dozen of your favorite problems constantly present in your
+mind, although by and large they will lay in a dormant state. Every time you
+hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!”
+
+
+>He was eating in the student cafeteria when someone tossed a dinner plate into the air—a Cornell cafeteria plate with the university seal imprinted on one rim—and in the instant of its flight he experienced what he long afterward considered an epiphany. As the plate spun, it wobbled. Because of the insignia he could see that the spin and the wobble were not quite in synchrony. Yet just in that instant it seemed to him—or was it his physicist’s intuition?’—that the two rotations were related.
+
+What are the questions I've always been interested in?” This could include grand, sweeping questions like “How can we make society fairer and more equitable?” as well as practical ones like “How can I make it a habit to exercise every day?” It might include questions about relationships, such as “How can I have closer relationships with the people I love?” or productivity, like “How can I spend more of my time doing high-value work?
+
+Here are more examples of favorite problems from my students:
+- How do I live less in the past, and more in the present?
+- How do I build an investment strategy that is aligned with my mid-term and long-term goals and commitments?
+- What does it look like to move from mindless consumption to mindful creation?
+- How can I go to bed early instead of watching shows after the kids go to bed?
+- How can my industry become more ecologically sustainable while remaining profitable?
+- How can I work through the fear I have of taking on more responsibility?
+- How can my school provide more resources for students with special needs?
+- How do I start reading all the books I already have instead of buying more? e How can I speed up and relax at the same time?
+- How can we make the healthcare system more responsive to people’s needs? e What can I do to make eating healthy easier?
+- How can I make decisions with more confidence?
+
+Take a moment now to write down some of your own favorite problems. Here are my recommendations to guide you:
+- Ask people close to you what you were obsessed with as a child (often you'll continue to be fascinated with the same things as an adult).
+- Don’t worry about coming up with exactly twelve (the exact number doesn’t matter, but try to come up with at least a few).
+- Don’t worry about getting the list perfect (this is just a first pass, and it will always be evolving).
+- Phrase them as open-ended questions that could have multiple answers (in contrast to “yes/no” questions with only one answer).
+
+Any piece of content, the value is not evenly distributed. There are always certain parts that are especially interesting, helpful, or valuable to you.
+
+You can extract only the most salient, relevant, rich material and save it as a succinct note.
+
+Don’t save entire chapters of a book—save only select passages. Don’t save complete transcripts of interviews—save a few of the best quotes. Don’t save entire websites—save a few screenshots of the sections that are most interesting.
+
 ---
 # Author's Purpose 
 
