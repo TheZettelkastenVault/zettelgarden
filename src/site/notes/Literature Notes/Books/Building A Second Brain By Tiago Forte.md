@@ -568,6 +568,45 @@ By saving the best excerpts from Wikipedia articles you read, you can create you
 
 We consume information to stay up to date, pass the time, entertain ourselves, and keep our minds engaged.
 
+Notes can come in handy even when you’re not able to write them down in real time.
+
+The best stuff always sticks in your mind for an hour or two.
+
+Taking notes during meetings is a common practice, they are often messy, with the action items buried among random comments. I often use Progressive Summarization to summarize my notes after phone calls to make sure I’m extracting every bit of value from them.
+
+Picasso’s act of distillation involves stripping away the unnecessary so that only the essential remains.
+
+Progressive Summarization is not a method for remembering as much as possible—it is a method for forgetting as much as possible. As you distill your ideas, they naturally improve, because when you drop the merely good parts, the great parts can shine more brightly.
+
+You cannot highlight the main takeaways from an article without leaving some points out. You cannot make a highlight reel of a video without cutting some of the footage. You cannot give an effective presentation without leaving out some slides
+
+**The Three Most Common Mistakes of Novice Notetakers**:-
+
+**Mistake #1: Over-Highlighting**:-
+The biggest mistake people make when they start to distill their notes is that they highlight way too much.
+
+When it comes to notetaking for work, less is more.
+
+**Mistake #2: Highlighting Without a Purpose in Mind**:-
+The most common question I hear about Progressive Summarization is “When should I be doing this highlighting?” The answer is that you should do it when you're getting ready to create something.
+
+Instead, wait until you know how you'll put the note to use.
+
+**Mistake #3: Making Highlighting Difficult**:-
+Rely on your intuition to tell you when a passage is interesting, counterintuitive, or relevant to your favorite problems or a current project.
+
+When you learn the art of distillation, you will gain a lifelong skill that will impact every area of your life
+
+Distillation is at the heart of the communication that is so central to our friendships, our working relationships, and our leadership abilities. Notetaking gives you a way to deliberately practice the skill of distilling every day.
+
+The effort we put into Progressive Summarization is meant for one purpose: to make it easy to find and work with our notes in the future.
+
+More is not better when it comes to thinking and creating. Distilling makes our ideas small and compact, so we can load them up into our minds with minimal effort.
+
+The true test of whether a note you’ve created is discoverable is whether you can get the gist of it at a glance. Put it aside for a few days and set a reminder to revisit it once you've forgotten most of the details. When you come back to it, give yourself no more than thirty seconds and see if you can rapidly get up to speed on what it’s about using the highlights you previously made. You'll quickly be able to tell if you’ve added too many highlights or too few.
+
+This is a skill you can become better at over time. The more you exercise your judgment, the more efficient and enjoyable your notetaking will become because you know that every minute of attention you invest is creating lasting value.
+
 ---
 # Author's Purpose 
 
