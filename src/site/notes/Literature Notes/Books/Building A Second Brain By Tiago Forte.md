@@ -795,6 +795,20 @@ You will begin to see yourself as the curator of the collective thinking of your
 
 These are the cornerstones of your work on which everything else is built, but you can’t usually know which notes are cornerstones up front. You discover them by sharing your ideas with others, and seeing which ones resonate with them.
 
+The CODE Method is based on an important aspect of creativity: that it is always a remix of existing parts.
+
+Kitbashing is a practice used in making small-scale models for action movies like Star Wars and Indiana Jones. To stay within time and budget, model makers buy prefabricated commercial kits and recombine them into new models for their sets. Instead of fabricating new pieces from scratch.
+
+>There were some kits to which you would return repeatedly.
+
+Reframing your productivity in terms of Intermediate Packets is a major step toward this turning point. Instead of thinking of your job in terms of tasks, which always require you to be there, personally, doing everything yourself, you will start to think in terms of assets and building blocks that you can assemble.
+
+Verum ipsum factum. Translated to English, it means “We only know what we make.” about it in a book. Ideas are merely thoughts until you put them into action. Thoughts are fleeting, quickly fading as time passes. To truly make an idea stick, you have to engage with it.
+
+What matters is that you are finding your voice and insisting that what you have to say matters. You have to value your ideas enough to share them. You have to believe that the smallest idea has the potential to change people’s lives.
+
+You could draw on the insights and life experiences you’ve written about in your notes to write a blog post or record a YouTube video to help people who are facing a similar challenge.
+
 ---
 # Author's Purpose 
 
