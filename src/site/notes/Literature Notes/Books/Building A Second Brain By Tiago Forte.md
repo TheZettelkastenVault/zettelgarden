@@ -276,6 +276,45 @@ Sometimes you come across an idea that is neither inspiring, personal, nor obvio
 
 By saving ideas that may contradict each other and don’t necessarily support what we already believe, we can train ourselves to take in information from different sources instead of immediately jumping to conclusions.
 
+Making decisions analytically, with a checklist, is taxing and stressful. It is the kind of thinking that demands the most energy. When you use up too much energy taking notes, you have little left over for the subsequent steps that add far more value: making connections, imagining possibilities, formulating theories, and creating new ideas of your own.
+
+The secret to making reading a habit is to make it effortless and enjoyable.
+
+There’s scientific evidence that our intuition knows what it’s doing. From the Book Designing for Behavior Change:
+>Participants in a famous study were given four biased decks of cards—some that would win them money, and some that would cause them to lose. When they started the game, they didnt know that the decks were biased. As they played the game, though, people’s bodies started showing signs of physical “stress” when their conscious minds were about to use a money-losing deck. The stress was an automatic response that occurred because the intuitive mind realized something was wrong—long before the conscious mind realized anything was amiss.
+
+The authors’ conclusion: “Our intuitive mind learns, and responds, even without our conscious awareness.”
+
+It’s a good idea to capture key information about the source of a note, such as the original web page address, the title of the piece, the author or publisher, and the date it was published.
+
+The most common options include:
+- E-book apps, which often allow you to export your highlights or annotations all at once.
+- Read later apps that allow you to bookmark content you find online for later reading (or in the case of podcasts or videos, listening or watching).
+- Basic notes apps that often come preinstalled on mobile devices and are designed for easily capturing short snippets of text.
+- Social media apps, which usually allow you to “favorite” content and export it to a notes app.
+- Web clippers, which allow you to save parts of web pages (often included as a built-in feature of notes apps).
+- Audio/voice transcription apps that create text transcripts from spoken words.
+- Other third-party services, integrations, and plug-ins that automate the process of exporting content from one app to another.
+
+Here are some of the most popular ways of using capture tools to save content you come across:
+- Capturing passages from e-books.
+- Capturing excerpts from online articles or web pages.
+- Capturing quotes from podcasts.
+- Capturing voice memos.
+- Capturing parts of YouTube videos.
+- Capturing excerpts from emails.
+- Capturing content from other apps.
+
+Your Second Brain gives you a place to corral the jumble of thoughts tumbling through your head and park them in a waiting area for safekeeping. Not only does this allow you to preserve them for the long term.
+
+Researchers have found that when people actively generate a series of words, such as by speaking or writing, more parts of their brain are activated when compared to simply reading the same words.
+
+Writing creates new knowledge that wasn’t there before.
+
+Thinking doesn’t just produce writing; writing also enriches thinking.
+
+Writing about one’s inner experiences led to a drop in visits to the doctor, improved immune systems, and reductions in distress.
+
 ---
 # Author's Purpose 
 
