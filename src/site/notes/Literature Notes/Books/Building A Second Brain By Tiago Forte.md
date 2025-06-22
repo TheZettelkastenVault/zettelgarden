@@ -90,7 +90,7 @@ You take ten minutes before the meeting starts to organize your notes. About a t
 
 Throughout the twentieth century, a series of scholars and innovators offered a vision for how technology could change humanity for the better. They dreamed of creating an “extended mind” that would amplify human intellect and help us solve the greatest problems facing society. The possibility of such a technological marvel shined like a beacon for the future, promising to liberate knowledge from dusty old books and make it universally accessible and useful.
 
-#### How A Second Brains Work?
+#### 2.3 How A Second Brains Work?
 
 **The Superpowers of a Second Brain**
 There are four essential capabilities that we can rely on a Second Brain to perform for us:
@@ -147,7 +147,7 @@ CODE is a map for navigating the endless streams of information we are now faced
 
 Here’s the problem: we can’t consume every bit of this information stream. We will quickly be exhausted and overwhelmed if we try.
 
-our goal should be to “capture” only the ideas and insights we think are truly noteworthy.
+Our goal should be to “capture” only the ideas and insights we think are truly noteworthy.
 
 The solution is to keep only what resonates in a trusted place that you control, and to leave the rest aside.
 
@@ -176,6 +176,8 @@ This is why I recommend you shift as much of your time and effort as possible fr
 All these actions—evaluate, share, teach, record, post, and lobbyY!—are synonyms for the act of expression. They all draw on outside sources for raw material, they all involve a practical process of refinement over time, and they all end up making an impact on someone or something that matters to you.
 
 Information is always in flux, and it is always a work in progress.
+
+#### 3.1 Capture: Keep What Resonates
 
 Information is food for the brain. It’s no accident that we call new ideas “food for
 thought.”
@@ -249,6 +251,30 @@ Any piece of content, the value is not evenly distributed. There are always cert
 You can extract only the most salient, relevant, rich material and save it as a succinct note.
 
 Don’t save entire chapters of a book—save only select passages. Don’t save complete transcripts of interviews—save a few of the best quotes. Don’t save entire websites—save a few screenshots of the sections that are most interesting.
+
+With a notes app, you can always save links back to the original content if you need to review your sources or want to dive deeper into the details in the future.
+
+Capture Criteria #1: Does It Inspire Me?
+Inspiration is one of the most rare and precious experiences in life. It is the essential fuel for doing your best work, yet it’s impossible to call up inspiration on demand. 
+
+Keep a collection of inspiring quotes, photos, ideas, and stories. Any time you need a break, a new perspective, or a dash of motivation, you can look through it and see what sparks your imagination.
+
+Capture Criteria #2: Is It Useful?
+Carpenters are known for keeping odds and ends in a corner of their workshop— a variety of nails and washers, scraps of lumber cut off from larger planks, and random bits of metal and wood.
+
+For example, I keep a folder full of stock photos, graphics, and drawings I find both online and offline. Any time I need an image for a slide deck, or a web page, or to spark new idea.
+
+Capture Criteria #3: Is It Personal?
+One of the most valuable kinds of information to keep is personal information— your own thoughts, reflections, memories, and mementos.
+
+I often save screenshots of text messages sent between my family and friends. The small moments of warmth and humor that take place in these threads are precious to me.
+
+Capture Criteria #4: Is It Surprising?
+The renowned information theorist Claude Shannon, whose discoveries paved the way for modern technology, had a simple definition for “information”: that which surprises you.2 If you’re not surprised, then you already knew it at some level, so why take note of it?
+
+Sometimes you come across an idea that is neither inspiring, personal, nor obviously useful, but there is something surprising about it. You may not be able to put your finger on why, but it conflicts with your existing point of view in a way that makes your brain perk up and pay attention. Those are the ideas you should capture.
+
+By saving ideas that may contradict each other and don’t necessarily support what we already believe, we can train ourselves to take in information from different sources instead of immediately jumping to conclusions.
 
 ---
 # Author's Purpose 
