@@ -378,6 +378,72 @@ Examples of projects could include:
 
 Knowing which projects you re currently committed to is crucial to being able to prioritize your week, plan your progress, and say no to things that aren’t important.
 
+**Areas: What I’m Committed to Over Time**:-
+As important as projects are, not everything is a project.
+
+In our work lives, we have various ongoing areas we’re responsible for, such as “product development,” “quality control,” or “human resources.” These are the job responsibilities that we were hired to take on.
+
+Each of these is an example of an area of responsibility, and together they make up the second main category of PARA.
+
+| Project                   | Area           |
+| ------------------------- | -------------- |
+| Lose 10 pounds            | Health         |
+| Publish a book            | Writing        |
+| Save 3 months of expenses | Finances       |
+| Create app mockup         | Product design |
+| Develop contract template | Legal          |
+
+**Examples of areas from your personal life could include:**
+**• Activities or places you are responsible for:**  
+Home/apartment; Cooking; Travel; Car.
+**• People you are responsible for or accountable to:**  
+Friends; Kids; Spouse; Pets.
+**• Standards of performance you are responsible for:**  
+Health; Personal growth; Friendships; Finances.
+
+**In your job or business:**
+**• Departments or functions you are responsible for:**  
+Account management; Marketing; Operations; Product development.
+**• People or teams you are responsible for or accountable to:**  
+Direct reports; Manager; Board of directors; Suppliers.
+**• Standards of performance you are responsible for:**  
+Professional development; Sales and marketing; Relationships and networking; Recruiting and hiring.
+
+**Resources: Things I Want to Reference in the Future**:-
+The third category of information that we want to keep is resources. This is basically a catchall for anything that doesn’t belong to a project or an area and could include any topic you're interested in gathering information about.
+
+For example:
+- What topics are you interested in? Architecture; Interior design; English literature; Beer brewing.
+- What subjects are you researching? Habit formation; Notetaking; Project management; Nutrition.
+- What useful information do you want to be able to reference? Vacation itineraries; Life goals; Stock photos; Product testimonials.
+- Which hobbies or passions do you have? Coffee; Classic movies; Hip-hop music; Japanese anime.
+
+**Archives: Things I've Completed or Put on Hold**:-
+Finally, we have our archives. This includes any item from the previous three categories that is no longer active. For example:
+- Projects that are completed or canceled
+- Areas of responsibility that you are no longer committed to maintaining (such as when a relationship ends or after moving out of your apartment)
+- Resources that are no longer relevant (hobbies you lose interest in or subjects you no longer care about)
+
+The archives are an important part of PARA because they allow you to place a folder in “cold storage” so that it doesn’t clutter your workspace, while safekeeping it forever just in case you need it.
+
+PARA is a universal system of organization designed to work across your digital world. It doesn’t work in only one place, requiring you to use completely different organizing schemes in each of the dozens of places you keep things. It can and should be used everywhere, such as the documents folder on your computer, your cloud storage drives, and of course, your digital notes app.
+
+Apps have made it extremely easy to capture content—it’s just a click or a tap away. However, we are given no guidance for what to do next. Where does a note go once it’s been created?
+
+It’s so important to separate capture and organize into two distinct steps: “keeping what resonates” in the moment is a separate decision from deciding to save something for the long term. Most notes apps have an “inbox” or “daily notes” section where new notes you’ve captured are saved until you can revisit them and decide where they belong.
+
+Once you’ve captured a batch of notes and it’s time to organize them, **PARA** comes into play. The four main categories are ordered by actionability to make the decision of where to put notes as easy as possible:
+**• Projects** are most actionable because you’re working on them right now and with a concrete deadline in mind.  
+**• Areas** have a longer time horizon and are less immediately actionable.  
+**• Resources** may become actionable depending on the situation.  
+**• Archives** remain inactive unless they are needed.
+
+This order gives us a convenient checklist for deciding where to put a note, starting at the top of the list and moving down:
+1. **In which project will this be most useful?**
+2. **If none:** In which area will this be most useful?
+3. **If none:** Which resource does this belong to?
+4. **If none:** Place in archives.
+
 
 
 ---
