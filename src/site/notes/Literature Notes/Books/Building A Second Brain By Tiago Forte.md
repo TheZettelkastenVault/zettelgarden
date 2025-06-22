@@ -532,6 +532,24 @@ Progressive Summarization is the technique I teach to distill notes down to thei
 
 I read the article and highlighted the passages I found most interesting. I have my read later app synced to my digital notes app, so any passage I highlight there automatically gets saved in my notes, including a link to the source.
 
+By limiting what I keep to only the best, most important, most relevant parts, I’m making all the subsequent steps of organizing, distilling, and expressing much easier.
+
+To enhance the discoverability of this note, I need to add a second layer of distillation.
+
+All I have to do is bold the main points within the note.
+
+At layer two, this note is already dramatically more discoverable.
+
+We’re not done yet! For those notes that are especially long, interesting, or valuable, it is sometimes worth adding a third layer of highlighting. I advise using the “highlighting” feature offered by most notes apps.
+
+For only the very few sources that are truly unique and valuable, Pll add an “executive summary” at the top of the note with a few bullet points summarizing the article in my own words.
+
+I recommend using bullet points to encourage yourself to make this executive summary succinct.
+
+By reviewing this executive summary, I can rapidly recall the main takeaways from this article.
+
+Speed is everything when it comes to recall.
+
 ---
 # Author's Purpose 
 
