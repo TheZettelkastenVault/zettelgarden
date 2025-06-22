@@ -766,7 +766,34 @@ Benigno came across an article on an innovative new kind of cryptocurrency and t
 
 >I instinctively knew that just sending a long article to friends usually doesn’t do anything, but because the text I am sending has been highlighted they can do a quick scan of it. Also I now have material for a future article I have been planning... all thanks to CODE.
 
+**Connect: Use Notes to Tell a Bigger Story**:-
+He uses his Second Brain to help him design memorial services, which for him are a deeply creative experience about honoring life.
 
+His goal with creating a memorial service is to “tell the story of someone’s life in a way that honors and makes meaning in retrospect about how their life unfolded.”
+
+his job was simply to gather and connect some of the themes and stories he heard in a way that was meaningful to the deceased person’s loved ones.
+
+He saved all the transcripts from his conversations, plus obituaries, photos, and other related documents into the PARA project folder for each memorial.
+
+>Using my first brain only for what it is best at is freedom. Freedom to be present and not multitasking as I sit with grieving people hearing stories of their loved ones. Freedom to know I have everything recorded. Freedom to know that when I go to pull the memorial together, 80 percent of the work is already done
+
+Some of our most beautiful, creative acts are ones in which we connect the dots for others in ways they wouldn’t be able to do themselves.
+
+**Create: Complete Projects and Accomplish Goals Stress Free**:-
+
+She uses her digital notes to create programs and presentations as part of her teaching.
+
+By the time she sat down to write the outline, she realized she already had all the Intermediate Packets—metaphors, research facts, stories, diagrams—she needed at her fingertips.
+
+>I’m able to look at my priorities—my priorities for my work, my priorities for my family, my marriage, etc.—and then only focus in the moment on those projects that are on my plate now.
+
+A common myth of creativity is that of the solitary artist, working in total isolation.
+
+The transformation comes from the fact that smaller chunks are inherently more shareable and collaborative.
+
+You will begin to see yourself as the curator of the collective thinking of your network, rather than the sole originator of ideas.
+
+These are the cornerstones of your work on which everything else is built, but you can’t usually know which notes are cornerstones up front. You discover them by sharing your ideas with others, and seeing which ones resonate with them.
 
 ---
 # Author's Purpose 
