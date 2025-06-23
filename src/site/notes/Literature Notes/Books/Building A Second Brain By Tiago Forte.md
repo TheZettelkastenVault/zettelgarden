@@ -1199,7 +1199,7 @@ Just be sure to take notes along the way.
 
 The practice begins and ends with notetaking—including capturing, organizing, distilling, and expressing information, ideas, and packets of work. The specific techniques in the CODE chapters are the best place to get started. However, one of the most common questions I receive is about the advanced skill of tagging.
 
-You can download this chapter at [Bonus Chapter](https://www.buildingasecondbrain.com/bonuschapter)
+You can download this chapter at [Bonus Chapter](https://www.buildingasecondbrain.com/bonuschapter).
 
 ---
 # Author's Purpose 
