@@ -1152,6 +1152,8 @@ It was around this time that I made two discoveries that changed, and saved, my 
 
 I wanted to share what I was learning with others. This led me to my second great discovery: writing in public.
 
+I discovered something through that experience: that self-expression is a fundamental human need. Self-expression is as vital to our survival as food or shelter.
+
 ---
 # Author's Purpose 
 
