@@ -1091,6 +1091,24 @@ When it comes to accomplishing our goals, it’s not that innate intelligence is
 
 It is this fundamental attitude toward information that will start to change as you integrate your Second Brain into your life.
 
+Ideas about business, psychology, and technology will connect and spawn new revelations you’ve never consciously considered.
+
+Maybe you don’t see yourself as a writer, creator, or expert. I certainly didn’t when I first started taking notes on my health problems. Once you start seeing even your biggest ambitions in terms of the smaller chunks of information they are made up of, you'll begin to realize that any experience or passing insight can be valuable. Your fears, doubts, mistakes, missteps, failures, and self-criticism—it’s all just information to be taken in, processed, and made sense of. All of it is part of a larger, ever-evolving whole.
+
+As you build a Second Brain, your biological brain will inevitably change. It will start to adapt to the presence of this new technological appendage, treating it as an extension of itself. Your mind will become calmer, knowing that every idea is being tracked. It will become more focused, knowing it can put thoughts on hold and access them later.
+
+as the CEO of your life, orchestrating and managing the process of turning information into results. We’re asking your biological brain to hand over the job of remembering to an external system, and by doing so, freeing it to absorb and integrate new knowledge in more creative ways.
+
+Your Second Brain is always on, has perfect memory, and can scale to any size.
+
+You'll want to expose yourself to more diverse perspectives, from more people, without necessarily committing to any single one. You'll become a curator of perspectives, free to pick and choose the beliefs and concepts that serve you best in any given situation.
+
+That is why building a Second Brain is a journey of personal growth.
+
+You leave behind one identity and step into another—an identity as the orchestrator and conductor of your life, not its passenger.
+
+The biggest shift that starts to occur as soon as you start creating a Second Brain is the shift from viewing the world through the lens of scarcity to seeing it through the lens of abundance.
+
 ---
 # Author's Purpose 
 
