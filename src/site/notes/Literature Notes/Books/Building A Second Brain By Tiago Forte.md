@@ -45,7 +45,7 @@ The Building a Second Brain system will teach you how to:
 - Turn work “off” and relax, knowing you have a trusted system keeping track of all the details.
 - Spend less time looking for things, and more time doing the best, most creative work you are capable of.
 
-#### 2.1 Where It All Started.
+#### 2.1. Where It All Started.
 
 How can anyone get anything done here? What’s their secret?
 - I knew only one trick, and it started with writing things down.
@@ -57,7 +57,7 @@ I learned from one of the reports we published that the value of physical capita
 
 In the next couple of chapters, I'll show you how the practice of creating a Second Brain is part of a long legacy of thinkers and creators who came before us —writers, scientists, philosophers, leaders, and everyday people who strived to remember and achieve more. Then I'll introduce you to a few basic principles and tools you'll need to set yourself up to succeed. Part Two, “The Method,” introduces each of the four steps you'll follow to build a Second Brain so you can immediately begin to capture and share ideas with more intention. And Part Three, “Making Things Happen,” offers a set of powerful ways to use your Second Brain to enhance your productivity, accomplish your goals, and thrive in your work and life.
  
-#### 2.2 What Is A Second Brain?
+#### 2.2. What Is A Second Brain?
 
 According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers’ worth of content each and every day, five times higher than in 1986.
 
@@ -90,7 +90,7 @@ You take ten minutes before the meeting starts to organize your notes. About a t
 
 Throughout the twentieth century, a series of scholars and innovators offered a vision for how technology could change humanity for the better. They dreamed of creating an “extended mind” that would amplify human intellect and help us solve the greatest problems facing society. The possibility of such a technological marvel shined like a beacon for the future, promising to liberate knowledge from dusty old books and make it universally accessible and useful.
 
-#### 2.3 How A Second Brains Work?
+#### 2.3. How A Second Brains Work?
 
 **The Superpowers of a Second Brain**
 There are four essential capabilities that we can rely on a Second Brain to perform for us:
@@ -177,7 +177,7 @@ All these actions—evaluate, share, teach, record, post, and lobbyY!—are syno
 
 Information is always in flux, and it is always a work in progress.
 
-#### 3.1 Capture: Keep What Resonates
+#### 3.1. Capture: Keep What Resonates
 
 Information is food for the brain. It’s no accident that we call new ideas “food for
 thought.”
@@ -325,7 +325,7 @@ It’s important to keep capturing relatively effortless because it is only the 
 
 The only way to know whether you're getting the good stuff is to try putting it to use in real life.
 
-#### 3.2 Organize: Save For Actionability
+#### 3.2. Organize: Save For Actionability
 
 Twyla Tharp is one of the most celebrated, inventive dance choreographers in modern times. Her body of work is made up of more than 160 pieces, including 129 dances, twelve television specials, six major Hollywood movies, four full length ballets, four Broadway shows, and two figure-skating routines.
 
@@ -490,7 +490,7 @@ Your goal is to clear your virtual workspace and gather all the items related to
 
 The key thing to keep in mind is that these categories are anything but final. PARA is a dynamic, constantly changing system, not a static one. Your Second Brain evolves as constantly as your projects and goals change, which means you never have to worry about getting it perfect, or having it finished.
 
-#### 3.3 Distill: Find the Essence
+#### 3.3. Distill: Find the Essence
 
 In 1969, studio executives at Paramount Pictures were desperate to find a film director for a new movie they had purchased the rights to, a crime drama based on the New York Mafia.
 
@@ -607,7 +607,7 @@ The true test of whether a note you’ve created is discoverable is whether you 
 
 This is a skill you can become better at over time. The more you exercise your judgment, the more efficient and enjoyable your notetaking will become because you know that every minute of attention you invest is creating lasting value.
 
-#### 3.4 Express: Show Your Work
+#### 3.4. Express: Show Your Work
 
 In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California.
 
@@ -809,7 +809,7 @@ What matters is that you are finding your voice and insisting that what you have
 
 You could draw on the insights and life experiences you’ve written about in your notes to write a blog post or record a YouTube video to help people who are facing a similar challenge.
 
-#### 4.1 The Art Of Creative Execution
+#### 4.1. The Art Of Creative Execution
 
 My father planned for creativity. He strategized his creativity. When it was time to make progress on a painting, he gave it his full focus.
 
@@ -930,7 +930,7 @@ List open questions, remaining to-dos, new avenues to explore, or people to cons
 
 If you feel resistance to continuing with this project later, try Dialing Down the Scope. Drop the least important features, postpone the hardest decisions for later, or find someone to help you with the parts you’re least familiar with.
 
-#### 4.2 The Essential Habits Of Digital Organizers
+#### 4.2. The Essential Habits Of Digital Organizers
 
 Your Second Brain is a practical system for enhancing your productivity and your creativity.
 
@@ -1069,7 +1069,7 @@ The truth is, any system that must be perfect to be reliable is deeply flawed.
 
 We have to remember that we are not building an encyclopedia of immaculately organized knowledge. We are building a working system.
 
-#### 4.3 The Path Of Self-Expression
+#### 4.3. The Path Of Self-Expression
 
 For most of history, humanity’s challenge was how to acquire scarce information. There was hardly any good information to be found anywhere. It was locked up in difficult-to-reproduce manuscripts or stuck in the heads of scholars.
 
@@ -1188,6 +1188,18 @@ As you begin your journey, here are twelve practical steps you can take right no
 10. Schedule a Weekly Review. Put a weekly recurring meeting with yourself on your calendar to begin establishing the habit of conducting a Weekly Review. To start, just clear your notes inbox and decide on your priorities for the week. From there, you can add other steps as your confidence grows.
 11. Assess your notetaking proficiency. Evaluate your current notetaking practices and areas for potential improvement using our free assessment tool at Buildingasecondbrain.com/quiz.
 12. Join the PKM community. On Twitter, LinkedIn, Substack, Medium, or your platform(s) of choice, follow and subscribe to thought leaders and join communities who are creating content related to personal knowledge management (#PKM), #SecondBrain, #BASB, or #toolsforthought. Share your top takeaways from this book or anything else you’ve realized or discovered. There’s nothing more effective for adopting new behaviors than surrounding yourself with people who already have them.
+
+While building a Second Brain is a project—something you can commit to and achieve within a reasonable period of time—using your Second Brain is a lifelong practice.
+
+If I could leave you with one last bit of advice, it is to chase what excites you. When you are captivated and obsessed by a story, an idea, or a new possibility, don’t just let that moment pass as if it doesn’t matter. Those are the moments that are truly precious, and that no technology can produce for you.
+
+Just be sure to take notes along the way.
+
+#### 5. How To Create A Tagging System That Works
+
+The practice begins and ends with notetaking—including capturing, organizing, distilling, and expressing information, ideas, and packets of work. The specific techniques in the CODE chapters are the best place to get started. However, one of the most common questions I receive is about the advanced skill of tagging.
+
+You can download this chapter at [Bonus Chapter](https://www.buildingasecondbrain.com/bonuschapter)
 
 ---
 # Author's Purpose 
