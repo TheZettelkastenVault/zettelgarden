@@ -825,6 +825,67 @@ But if you go one level deeper, to the process of creativity, it is a very diffe
 
 One of the most important patterns that underlies the creative process is called “divergence and convergence".
 
+A creative endeavor begins with an act of divergence. You open the space of possibilities and consider as many options as possible.
+
+The purpose of divergence is to generate new ideas, so the process is necessarily spontaneous, chaotic, and messy.
+
+As powerful and necessary as divergence is, if all we ever do is diverge, then we never arrive anywhere.
+
+Convergence forces us to eliminate options, make trade-offs, and decide what is truly essential. It is about narrowing the range of possibilities so that you can make forward progress and end up with a final result you are proud of. Convergence allows our work to take on a life of its own and become something separate from ourselves.
+
+The model of divergence and convergence is so fundamental to all creative work, we can see it present in any creative field.
+
+The first two steps of CODE, Capture and Organize, make up divergence. They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas. The final two steps, Distill and Express, are about convergence. They help us shut the door to new ideas and begin constructing something new out of the knowledge building blocks we’ve assembled.
+
+Your Second Brain is a powerful ally in overcoming the universal challenge of creative work.
+
+When you distinguish between the two modes of divergence and convergence, you can decide each time you begin to work which mode you want to be in.
+
+In divergence mode, you want to open up your horizons and explore every possible option.
+
+If you decide to enter convergence mode, do the opposite: close the door, put on noise-canceling headphones, ignore every new input, and ferociously chase the sweet reward of completion.
+
+Of the two stages of this process, convergence is where most people struggle.
+
+The more imaginative and curious you are, the more diverse your interests, and the higher your standards and commitment to perfection, the more difficult you will likely find it to switch from divergence mode into convergence mode.
+
+There are three powerful strategies for completing creative projects I recommend to help you through the pitfalls of convergence. Each of them depends on having a Second Brain where you can manipulate and shape information without worrying it will disappear.
+
+The Archipelago of Ideas technique is valuable any time you are starting a new piece of work.
+
+It gives you a way to plan your progress even when performing tasks that are inherently unpredictable.
+
+>Instead of confronting a terrifying blank page, I’m looking at a document filled with quotes: from letters, from primary sources, from scholarly papers, sometimes even my own notes. It’s a great technique for warding off the siren song of procrastination. Before I hit on this approach, I used to lose weeks stalling before each new chapter, because it was just a big empty sea of nothingness. Now each chapter starts life as a kind of archipelago of inspiring quotes, which makes it seem far less daunting. All I have to do is build bridges between the islands.
+
+An archipelago is a chain of islands in the ocean, usually formed by volcanic activity over long spans of time. The Hawaiian Islands, for example, are an archipelago of eight major islands extending over about 1,500 miles of the Pacific Ocean. 
+
+To create an Archipelago of Ideas, you divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable. Once you have a critical mass of ideas to work with, you switch decisively into convergence mode and link them together in an order that makes sense.
+
+Creating outlines digitally instead of on paper offers multiple major advantages:
+- **A digital outline is far more malleable and flexible** — you can add bullet points and cross them off, rearrange and expand on them, add bolding and highlights, and edit them after the fact as your thinking changes.
+- **The outline can link to more detailed content** — instead of trying to cram every last point onto the same page, you can link to both your own private notes and public resources on the web, which helps avoid overloading the outline with too much detail.
+- **The outline is interactive and multimedia** — you can add not only text, but images, GIFs, videos, attachments, diagrams, checkboxes, and more.
+- **The outline is searchable** — even if it gets long, you have a powerful search feature to instantly call up any term you’re looking for.
+- **The outline can be accessed and edited from anywhere** — unlike a piece of paper in a notebook, your outline is instantaneously synced to every one of your devices, and it can be viewed, edited, and added to from anywhere.
+
+An Archipelago of Ideas separates the two activities your brain has the most difficulty performing at the same time: choosing ideas (known as selection) and arranging them into a logical ow (known as sequencing).
+
+Instead of starting with scarcity, start with abundance.
+
+Ernest Hemingway was one of the most recognized and influential novelists of the twentieth century. He wrote in an economical, understated style that profoundly influenced a generation of writers and led to his winning the Nobel Prize in Literature in 1954.
+
+You can think of a Hemingway Bridge as a bridge between the islands in your Archipelago of Ideas. You may have the islands, but that is just the rst step.
+
+The Hemingway Bridge is a way of making each creative leap from one island to the next less dramatic and risky.
+
+How do you create a Hemingway Bridge?
+
+Reserve the last few minutes to write down some of the following kinds of things in your digital notes:
+- Write down ideas for next steps: At the end of a work session, write down what you think the next steps could be for the next one.
+- Write down the current status: This could include your current biggest challenge, most important open question, or future roadblocks you expect.
+- Write down any details you have in mind that are likely to be forgotten once you step away: Such as details about the characters in your story, the pitfalls of the event you’re planning, or the subtle considerations of the product you’re designing.
+- Write out your intention for the next work session: Set an intention for what you plan on tackling next, the problem you intend to solve, or a certain milestone you want to reach.
+
 ---
 # Author's Purpose 
 
