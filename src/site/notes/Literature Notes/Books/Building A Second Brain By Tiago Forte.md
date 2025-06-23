@@ -1134,11 +1134,23 @@ The purpose of knowledge is to be shared. What’s the point of knowing somethin
 
 Now we can speak the same language, coordinate our efforts, and share our progress in applying it. Knowledge becomes more powerful as it spreads.
 
-The practice of building a Second Brain is more than the sum of capturing facts, theories, and the opinions of others. At its core, it is about cultivating selfawareness and self-knowledge. When you encounter an idea that resonates with you, it is because that idea reflects back to you something that is already within you.
+The practice of building a Second Brain is more than the sum of capturing facts, theories, and the opinions of others. At its core, it is about cultivating self awareness and self-knowledge. When you encounter an idea that resonates with you, it is because that idea reflects back to you something that is already within you.
 
 This problem—known as “self-ignorance”—has been a major roadblock in the development of artificial intelligence and other computer systems. Because we cannot describe how we know what we know, it can’t be programmed into software.
 
 As you build your Second Brain, you will collect many facts and figures, but they are just a means to an end: discovering the tacit knowledge that lives within you. It’s in there, but you need external hooks to pull it out and into your conscious awareness.
+
+You see patterns and connections in your field that no other machine or human can see. Life has given you a set of experiences that provide you with a unique lens on the world.
+
+We are constantly told that we should be true to ourselves and pursue our deepest desires, but what if you don’t know what your goals and desires are?
+
+The process of knowing yourself can seem mystical, but I see it as eminently practical.
+
+There is a universe of thoughts and ideas and emotions within you. Over time, you can uncover new layers of yourself and new facets of your identity.
+
+It was around this time that I made two discoveries that changed, and saved, my life. The first was meditation and mindfulness.
+
+I wanted to share what I was learning with others. This led me to my second great discovery: writing in public.
 
 ---
 # Author's Purpose 
