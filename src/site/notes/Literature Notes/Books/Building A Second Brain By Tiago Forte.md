@@ -1109,6 +1109,37 @@ You leave behind one identity and step into another—an identity as the orchest
 
 The biggest shift that starts to occur as soon as you start creating a Second Brain is the shift from viewing the world through the lens of scarcity to seeing it through the lens of abundance.
 
+
+it will be like on the other side, but if you persevere through the transition, there is always a new horizon of hope, possibility, and freedom waiting for you on the other side.
+
+The Shift from Scarcity to Abundance
+
+How do you know when you’ve begun making the shift to this new identity ve described? The biggest shift that starts to occur as soon as you start creating a Second Brain is the shift from viewing the world through the lens of scarcity to seeing it through the lens of abundance.
+
+I see so many people trying to operate in this new world under the assumptions of the past—that information is scarce, and therefore we need to acquire and consume and hoard as much of it as possible. We’ve been conditioned to view information through a consumerist lens: that more is better, without limit. Through the lens of scarcity, we constantly crave more, more, more information, a response to the fear of not having enough.4 We've been taught that information must be jealously guarded, because someone could use it against us or steal our ideas. That our value and self-worth come from what we know and can recite on command.
+
+As we saw in the chapter on Capturing, the inclination to amass information can become an end in itself. It is all too easy to default to collecting more and more content without regard to whether it is useful or beneficial to us. This is indiscriminate consumption of information, treating every meme and random post on social media as if it was just as important as the most profound piece of wisdom. It is driven by fear—the fear of missing out on some crucial fact, idea, or story that everyone is talking about. The paradox of hoarding is that no matter how much we collect and accumulate, it’s never enough. The lens of scarcity also tells us that the information we already have must not be very valuable, compelling us to keep searching externally for what’s missing inside.
+
+The opposite of a Scarcity Mindset is an Abundance Mindset. This is a way of looking at the world as full of valuable and helpful things—ideas, insights, tools, collaborations, opportunities. An Abundance Mindset tells us that there is an endless amount of incredibly powerful knowledge everywhere we look—in the content we consume, in our social network, in our bodies and intuitions, and in our own minds.
+
+Making the shift to a mindset of abundance is about letting go of the things we thought we needed to survive but that no longer serve us.
+
+There is a second shift that occurs when you begin to use your Second Brain not only for remembering, but for connecting and creating. You will transition from doing things primarily out of obligation or pressure to doing things from a spirit of service.
+
+The desire to give back is a fundamental part of what makes us human.
+
+You are under no obligation to help others. Sometimes it’s all you can do to take care of yourself.
+
+The purpose of knowledge is to be shared. What’s the point of knowing something if it doesn’t positively impact anyone, not even yourself? Learning shouldn’t be about hoarding stockpiles of knowledge like gold coins. Knowledge is the only resource that gets better and more valuable the more it multiplies.
+
+Now we can speak the same language, coordinate our efforts, and share our progress in applying it. Knowledge becomes more powerful as it spreads.
+
+The practice of building a Second Brain is more than the sum of capturing facts, theories, and the opinions of others. At its core, it is about cultivating selfawareness and self-knowledge. When you encounter an idea that resonates with you, it is because that idea reflects back to you something that is already within you.
+
+This problem—known as “self-ignorance”—has been a major roadblock in the development of artificial intelligence and other computer systems. Because we cannot describe how we know what we know, it can’t be programmed into software.
+
+As you build your Second Brain, you will collect many facts and figures, but they are just a means to an end: discovering the tacit knowledge that lives within you. It’s in there, but you need external hooks to pull it out and into your conscious awareness.
+
 ---
 # Author's Purpose 
 
